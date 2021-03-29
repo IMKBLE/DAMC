@@ -49,9 +49,11 @@ To demonstrate the performance of the proposed framework, we evaluate DAMC on fo
 Python 3.6  
 PyTorch 1.0
 
-**Train the model**
+**Train the model**  
 
+```
 python train.py
+```
 
 **Acknowledgments**
 
