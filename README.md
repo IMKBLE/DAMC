@@ -46,11 +46,11 @@ To demonstrate the performance of the proposed framework, we evaluate DAMC on fo
 
 **Requirements**
 
-Python: Python 3.6.2：
-Pytorch: 0.1.12
-Numpy: 1.13.1
-TorchVision: 0.1.8
-Cuda: 11.2
+Python: Python 3.6.2：  
+Pytorch: 0.1.12  
+Numpy: 1.13.1  
+TorchVision: 0.1.8  
+Cuda: 11.2  
 
 
 **Train the model**  
